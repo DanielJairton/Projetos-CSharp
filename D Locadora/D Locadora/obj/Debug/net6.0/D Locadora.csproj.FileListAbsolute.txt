@@ -1,0 +1,14 @@
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\D Locadora\D Locadora\obj\Debug\net6.0\D Locadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\D Locadora\D Locadora\obj\Debug\net6.0\D Locadora.AssemblyInfoInputs.cache
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\D Locadora\D Locadora\obj\Debug\net6.0\D Locadora.AssemblyInfo.cs
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\D Locadora\D Locadora\obj\Debug\net6.0\D Locadora.csproj.CoreCompileInputs.cache
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\D Locadora\D Locadora\bin\Debug\net6.0\D Locadora.exe
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\D Locadora\D Locadora\bin\Debug\net6.0\D Locadora.deps.json
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\D Locadora\D Locadora\bin\Debug\net6.0\D Locadora.runtimeconfig.json
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\D Locadora\D Locadora\bin\Debug\net6.0\D Locadora.dll
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\D Locadora\D Locadora\bin\Debug\net6.0\D Locadora.pdb
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\D Locadora\D Locadora\obj\Debug\net6.0\D Locadora.dll
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\D Locadora\D Locadora\obj\Debug\net6.0\refint\D Locadora.dll
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\D Locadora\D Locadora\obj\Debug\net6.0\D Locadora.pdb
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\D Locadora\D Locadora\obj\Debug\net6.0\D Locadora.genruntimeconfig.cache
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\D Locadora\D Locadora\obj\Debug\net6.0\ref\D Locadora.dll
