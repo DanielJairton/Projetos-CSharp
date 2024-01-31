@@ -1,0 +1,28 @@
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Lo gica com C#(C)\Aplicando Lo gica com C#(C)\bin\Debug\net6.0\Aplicando Lo gica com C#(C).exe
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Lo gica com C#(C)\Aplicando Lo gica com C#(C)\bin\Debug\net6.0\Aplicando Lo gica com C#(C).deps.json
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Lo gica com C#(C)\Aplicando Lo gica com C#(C)\bin\Debug\net6.0\Aplicando Lo gica com C#(C).runtimeconfig.json
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Lo gica com C#(C)\Aplicando Lo gica com C#(C)\bin\Debug\net6.0\Aplicando Lo gica com C#(C).dll
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Lo gica com C#(C)\Aplicando Lo gica com C#(C)\bin\Debug\net6.0\Aplicando Lo gica com C#(C).pdb
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Lo gica com C#(C)\Aplicando Lo gica com C#(C)\obj\Debug\net6.0\Aplicando Lo gica com C#(C).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Lo gica com C#(C)\Aplicando Lo gica com C#(C)\obj\Debug\net6.0\Aplicando Lo gica com C#(C).AssemblyInfoInputs.cache
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Lo gica com C#(C)\Aplicando Lo gica com C#(C)\obj\Debug\net6.0\Aplicando Lo gica com C#(C).AssemblyInfo.cs
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Lo gica com C#(C)\Aplicando Lo gica com C#(C)\obj\Debug\net6.0\Aplicando Lo gica com C#(C).csproj.CoreCompileInputs.cache
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Lo gica com C#(C)\Aplicando Lo gica com C#(C)\obj\Debug\net6.0\Aplicando Lo gica com C#(C).dll
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Lo gica com C#(C)\Aplicando Lo gica com C#(C)\obj\Debug\net6.0\refint\Aplicando Lo gica com C#(C).dll
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Lo gica com C#(C)\Aplicando Lo gica com C#(C)\obj\Debug\net6.0\Aplicando Lo gica com C#(C).pdb
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Lo gica com C#(C)\Aplicando Lo gica com C#(C)\obj\Debug\net6.0\Aplicando Lo gica com C#(C).genruntimeconfig.cache
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Lo gica com C#(C)\Aplicando Lo gica com C#(C)\obj\Debug\net6.0\ref\Aplicando Lo gica com C#(C).dll
+C:\Users\Danie\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C#(C)\Aplicando Lo gica com C#(C)\bin\Debug\net6.0\Aplicando Lo gica com C#(C).exe
+C:\Users\Danie\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C#(C)\Aplicando Lo gica com C#(C)\bin\Debug\net6.0\Aplicando Lo gica com C#(C).deps.json
+C:\Users\Danie\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C#(C)\Aplicando Lo gica com C#(C)\bin\Debug\net6.0\Aplicando Lo gica com C#(C).runtimeconfig.json
+C:\Users\Danie\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C#(C)\Aplicando Lo gica com C#(C)\bin\Debug\net6.0\Aplicando Lo gica com C#(C).dll
+C:\Users\Danie\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C#(C)\Aplicando Lo gica com C#(C)\bin\Debug\net6.0\Aplicando Lo gica com C#(C).pdb
+C:\Users\Danie\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C#(C)\Aplicando Lo gica com C#(C)\obj\Debug\net6.0\Aplicando Lo gica com C#(C).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danie\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C#(C)\Aplicando Lo gica com C#(C)\obj\Debug\net6.0\Aplicando Lo gica com C#(C).AssemblyInfoInputs.cache
+C:\Users\Danie\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C#(C)\Aplicando Lo gica com C#(C)\obj\Debug\net6.0\Aplicando Lo gica com C#(C).AssemblyInfo.cs
+C:\Users\Danie\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C#(C)\Aplicando Lo gica com C#(C)\obj\Debug\net6.0\Aplicando Lo gica com C#(C).csproj.CoreCompileInputs.cache
+C:\Users\Danie\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C#(C)\Aplicando Lo gica com C#(C)\obj\Debug\net6.0\Aplicando Lo gica com C#(C).dll
+C:\Users\Danie\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C#(C)\Aplicando Lo gica com C#(C)\obj\Debug\net6.0\refint\Aplicando Lo gica com C#(C).dll
+C:\Users\Danie\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C#(C)\Aplicando Lo gica com C#(C)\obj\Debug\net6.0\Aplicando Lo gica com C#(C).pdb
+C:\Users\Danie\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C#(C)\Aplicando Lo gica com C#(C)\obj\Debug\net6.0\Aplicando Lo gica com C#(C).genruntimeconfig.cache
+C:\Users\Danie\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C#(C)\Aplicando Lo gica com C#(C)\obj\Debug\net6.0\ref\Aplicando Lo gica com C#(C).dll

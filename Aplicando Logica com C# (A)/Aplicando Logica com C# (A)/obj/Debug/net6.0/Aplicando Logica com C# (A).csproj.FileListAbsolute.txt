@@ -1,0 +1,14 @@
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C# (A)\Aplicando Logica com C# (A)\bin\Debug\net6.0\Aplicando Logica com C# (A).exe
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C# (A)\Aplicando Logica com C# (A)\bin\Debug\net6.0\Aplicando Logica com C# (A).deps.json
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C# (A)\Aplicando Logica com C# (A)\bin\Debug\net6.0\Aplicando Logica com C# (A).runtimeconfig.json
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C# (A)\Aplicando Logica com C# (A)\bin\Debug\net6.0\Aplicando Logica com C# (A).dll
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C# (A)\Aplicando Logica com C# (A)\bin\Debug\net6.0\Aplicando Logica com C# (A).pdb
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C# (A)\Aplicando Logica com C# (A)\obj\Debug\net6.0\Aplicando Logica com C# (A).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C# (A)\Aplicando Logica com C# (A)\obj\Debug\net6.0\Aplicando Logica com C# (A).AssemblyInfoInputs.cache
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C# (A)\Aplicando Logica com C# (A)\obj\Debug\net6.0\Aplicando Logica com C# (A).AssemblyInfo.cs
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C# (A)\Aplicando Logica com C# (A)\obj\Debug\net6.0\Aplicando Logica com C# (A).csproj.CoreCompileInputs.cache
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C# (A)\Aplicando Logica com C# (A)\obj\Debug\net6.0\Aplicando Logica com C# (A).dll
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C# (A)\Aplicando Logica com C# (A)\obj\Debug\net6.0\refint\Aplicando Logica com C# (A).dll
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C# (A)\Aplicando Logica com C# (A)\obj\Debug\net6.0\Aplicando Logica com C# (A).pdb
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C# (A)\Aplicando Logica com C# (A)\obj\Debug\net6.0\Aplicando Logica com C# (A).genruntimeconfig.cache
+C:\Users\tarde.cetafaju\Desktop\Projetos\Daniel Jairton\Aplicando Logica com C# (A)\Aplicando Logica com C# (A)\obj\Debug\net6.0\ref\Aplicando Logica com C# (A).dll
